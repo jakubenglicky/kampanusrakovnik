@@ -1,1 +1,1 @@
-import './styles/style.less';
+import './source/styles/style.less';
