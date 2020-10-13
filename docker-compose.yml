@@ -1,0 +1,9 @@
+version: '3.3'
+
+services:
+  npm:
+    image: library/node:latest
+    volumes:
+    - ./:/src
+    working_dir: /src
+    command: npm
