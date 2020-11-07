@@ -6,9 +6,9 @@
     <title>{ifset $title}{$title} - {/ifset}Kampánus Rakovník</title>
 
 
-    <link rel="icon" href="img/favicon.png">
+    <link rel="icon" href="{$baseUrl}/img/favicon.png">
     <link href="https://fonts.googleapis.com/css2?family=Karla:ital@0;1&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="{$baseUrl}/assets/css/style.css">
 </head>
 <body>
 
@@ -26,12 +26,12 @@
         <div class="menu-space click-dropdown-content">
             <div class="menu-content">
                 <ul class="menu-content-ul">
-                    <li><a href="/">Úvodní stránka</a></li>
-                    <li><a href="/kalendar-akci/">Kalendář akcí</a></li>
-                    <li><a href="/repertoar/">Repertoár</a></li>
-                    <li><a href="/o-kapele/">O kapele</a></li>
-                    <li><a href="/ke-stazeni/">Pro pořadatele</a></li>
-                    <li><a href="/kontakt/">Kontakt</a></li>
+                    <li><a href="{$baseUrl}/">Úvodní stránka</a></li>
+                    <li><a href="{$baseUrl}/kalendar-akci/">Kalendář akcí</a></li>
+                    <li><a href="{$baseUrl}/repertoar/">Repertoár</a></li>
+                    <li><a href="{$baseUrl}/o-kapele/">O kapele</a></li>
+                    <li><a href="{$baseUrl}/ke-stazeni/">Pro pořadatele</a></li>
+                    <li><a href="{$baseUrl}/kontakt/">Kontakt</a></li>
                 </ul>
             </div>
             <div class="menu-news">
@@ -75,6 +75,6 @@
 
 {include content}
 
-<script src="/assets/js/bundle.js"></script>
+<script src="{$baseUrl}/assets/js/bundle.js"></script>
 </body>
 </html>
