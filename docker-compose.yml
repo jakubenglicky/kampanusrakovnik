@@ -6,4 +6,18 @@ services:
     volumes:
     - ./:/src
     working_dir: /src
-    command: npm
+    command: npm install
+
+  ci:
+    image: php:7.3-cli
+    volumes:
+    - ./:/src
+    working_dir: /src
+
+  composer:
+    image: composer:latest
+    volumes:
+    - ./:/src
+    working_dir: /src
+    command: composer install
+

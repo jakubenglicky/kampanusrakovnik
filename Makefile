@@ -1,5 +1,6 @@
 init:
 	npm install
+	composer install --prefer-dist --no-progress --no-suggest --no-interaction --optimize-autoloader
 
 assets:
 	npx webpack
