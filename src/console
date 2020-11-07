@@ -3,6 +3,11 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
+$fileAuth = __DIR__ . '/../data/auth.json';
+if ( ! file_exists(__DIR__ . '/../data/auth.json')) {
+	file_put_contents(__DIR__ . '/../data/auth.json', getenv('GOOGLE_AUTH'));
+}
+
 $application = new \Contributte\Console\Application();
 
 $application->add(
