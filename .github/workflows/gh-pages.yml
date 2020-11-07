@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
+      - uses: jwsi/secret-parser@v1
+        with:
+          filename: data/auth.json
+          secret-name: private_key
+          secret-value: ${{ secrets.GOOGLE_AUTH }}
+
       - uses: shivammathur/setup-php@v2
         env:
           GOOGLE_AUTH: ${{ secrets.GOOGLE_AUTH }}
