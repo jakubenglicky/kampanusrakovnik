@@ -18,7 +18,7 @@ module.exports = {
 					'css-loader',
 					'less-loader'
 				],
-			},
+			}
 		]
 	},
 	// Add an instance of the MiniCssExtractPlugin to the plugins list

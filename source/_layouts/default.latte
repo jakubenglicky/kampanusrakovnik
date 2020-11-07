@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{ifset $title}{$title} - {/ifset}Kampánus Rakovník</title>
+
+
+    <link rel="icon" href="img/favicon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:ital@0;1&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+<header>
+
+    <nav class="click-dropdown">
+        <div class="header-text-brand">
+            <a href="/">Kampánus rakovník</a>
+        </div>
+
+        <button type="button" class="toggler-menu open-drop">
+            <span class="toggler-menu-icon"></span>
+        </button>
+
+        <div class="menu-space click-dropdown-content">
+            <div class="menu-content">
+                <ul class="menu-content-ul">
+                    <li><a href="/">Úvodní stránka</a></li>
+                    <li><a href="/kalendar-akci/">Kalendář akcí</a></li>
+                    <li><a href="/repertoar/">Repertoár</a></li>
+                    <li><a href="/o-kapele/">O kapele</a></li>
+                    <li><a href="/ke-stazeni/">Pro pořadatele</a></li>
+                    <li><a href="/kontakt/">Kontakt</a></li>
+                </ul>
+            </div>
+            <div class="menu-news">
+                <h2>Nejnovější příspěvky</h2>
+                <span>Pracujeme na novém repertoáru s naším novým kytaristou.</span>
+            </div>
+            <div class="menu-footer-social">
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com/kampanus.rakovnik/">
+								<span class="menu-social-span fb">
+									<i class="fab fa-facebook-f"></i>
+								</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCOSQLzwqR1idmeTKp2BR1gA">
+								<span class="menu-social-span yt">
+									<i class="fab fa-youtube"></i>
+								</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="mailto:kapela@kampanusrakovnik.cz">
+								<span class="menu-social-span mail">
+									<i class="fas fa-envelope"></i>
+								</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </nav>
+
+    <div id="header-image">
+        <img src="https://kampanusrakovnik.cz/wp-content/uploads/2017/10/cropped-band-1.jpg" alt="Kampánus">
+    </div>
+
+</header>
+
+{include content}
+
+<script src="/assets/js/bundle.js"></script>
+</body>
+</html>
