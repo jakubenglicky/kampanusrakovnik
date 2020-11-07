@@ -1,0 +1,19 @@
+---
+layout: "_layouts/default.latte"
+title: "Repertoár"
+---
+
+{block content}
+<h1>REPERTOÁR</h1>
+<table>
+    <tbody>
+    {foreach $repertoire as $key => $action}
+        <tr>
+            <td>{$action['performer']}</td>
+            <td>{$action['song']}</td>
+        </tr>
+    {/foreach}
+    </tbody>
+</table>
+
+{/block}

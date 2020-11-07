@@ -1,0 +1,17 @@
+#!/usr/bin/env php
+<?php declare(strict_types = 1);
+
+require __DIR__ . '/../vendor/autoload.php';
+
+$application = new \Contributte\Console\Application();
+
+$application->add(
+	new ActionsGenerator(
+		GoogleClient::build(__DIR__ . '/../data/auth.json'),
+		__DIR__ . '/../data'
+	)
+);
+
+$application->add(new RepertoireGenerator(__DIR__ . '/../data'));
+
+$application->run();
