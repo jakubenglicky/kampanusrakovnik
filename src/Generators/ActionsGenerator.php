@@ -95,9 +95,9 @@ class ActionsGenerator extends \Symfony\Component\Console\Command\Command
 	}
 
 
-	private function isInternal(string $title)
+	public function isInternal(string $title)
 	{
-		$webalize = \Nette\Utils\Strings::webalize($title);
+		$webalize = \Nette\Utils\Strings::webalize($title, '?');
 
 		foreach (self::EXCLUDE as $exclude) {
 			if (\Nette\Utils\Strings::contains($webalize, $exclude)) {

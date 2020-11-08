@@ -2,6 +2,9 @@ init:
 	npm install
 	composer install --prefer-dist --no-progress --no-suggest --no-interaction --optimize-autoloader
 
+run-tests:
+	php vendor/bin/phpunit --testdox tests
+
 assets:
 	npx webpack
 
@@ -13,6 +16,7 @@ static:
 	php vendor/bin/statie generate source --output=public
 
 build:
+	make run-tests
 	make assets
 	make generate
 	make static
