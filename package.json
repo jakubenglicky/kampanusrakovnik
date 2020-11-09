@@ -27,6 +27,7 @@
     "webpack-cli": "^4.0.0"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.1"
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "svg-url-loader": "^6.0.0"
   }
 }
