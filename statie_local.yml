@@ -1,0 +1,5 @@
+imports:
+  - { resource: 'statie.yml' }
+
+parameters:
+  baseUrl: ''
