@@ -20,6 +20,7 @@ build:
 	make assets
 	make generate
 	make static
+	php src/console generate:sitemap public
 
 local:
 	php vendor/bin/statie generate source --output=public --config=statie_local.yml
