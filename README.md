@@ -14,6 +14,7 @@ Static HTML files generated into `/public`
     make init
     make build (make run-tests, assets, generate, static)
     make local
+    make dev
 ```
 
 Web available at http://localhost:8000

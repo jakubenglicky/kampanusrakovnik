@@ -22,4 +22,7 @@ build:
 	make static
 
 local:
+	php vendor/bin/statie generate source --output=public --config=statie_local.yml
+
+dev:
 	php -S 0.0.0.0:8000 -t public
