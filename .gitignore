@@ -1,3 +1,4 @@
-public
+public/*
+!public/robots.txt
 node_modules
 vendor

@@ -13,5 +13,6 @@ $application->add(
 );
 
 $application->add(new RepertoireGenerator(__DIR__ . '/../data'));
+$application->add(new SitemapGenerator());
 
 $application->run();

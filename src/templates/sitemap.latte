@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {foreach $aliases as $alias}
+    <url>
+        <loc>https://kampanusrakovnik.cz/{$alias}/</loc>
+        <lastmod>{(new DateTime)->format('Y-m-d')}</lastmod>
+    </url>
+    {/foreach}
+</urlset>
