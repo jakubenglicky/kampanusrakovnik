@@ -70,7 +70,7 @@ table tr td {
   border-bottom: 1px solid rgba(20, 20, 40, 0.03);
   padding: 0.19753086em 0.44444444em;
 }
-/* headre */
+/* Header */
 nav {
   display: flex;
   justify-content: space-between;
@@ -150,7 +150,6 @@ nav .click-dropdown-content .menu-content-ul a {
 nav .click-dropdown-content .menu-content-ul a:hover {
   color: #ed7d86;
 }
-nav .click-dropdown-content .menu-news,
 nav .click-dropdown-content .menu-footer-social {
   font-size: 0.85733333em;
   padding: 2.25em 0;
@@ -389,6 +388,33 @@ main h2 {
   .my-container {
     max-width: 990px;
   }
+}
+/* Repertoire */
+#repSearch {
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+#repertoire th,
+#repertoire td {
+  padding: 8px;
+  border: none;
+  background: 0 0;
+  text-align: left;
+  float: none!important;
+}
+#repertoire th {
+  background-color: #d9edf7;
+  font-weight: 700;
+  vertical-align: middle;
+  border-bottom: 1px solid #ddd;
+}
+#repertoire tr:nth-child(odd) {
+  background-color: #f2f2f2;
 }
 /* Footer */
 footer {

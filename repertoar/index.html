@@ -34,10 +34,6 @@
                     <li><a href="https://jakubenglicky.github.io/kampanusrakovnik/kontakt/">Kontakt</a></li>
                 </ul>
             </div>
-            <div class="menu-news">
-                <h2>Nejnovější příspěvky</h2>
-                <span>Pracujeme na novém repertoáru s naším novým kytaristou.</span>
-            </div>
             <div class="menu-footer-social">
                 <ul>
                     <li>
@@ -76,8 +72,13 @@
 <main>
     <div class="my-container">
 <h1>REPERTOÁR</h1>
-<table>
+<input type="text" id="repSearch" onkeyup="searchRepertoire()" placeholder="Hledat">
+<table id="repertoire">
     <tbody>
+        <tr>
+            <th>Umělec</th>
+            <th>Název skladby</th>
+        </tr>
         <tr>
             <td>Nena</td>
             <td>99 luftballons</td>
@@ -408,6 +409,31 @@
         </tr>
     </tbody>
 </table>
+
+<script>
+function searchRepertoire() {
+  let input, filter, table, tr, i;
+  let td = [];
+  let txtValue = [];
+  input = document.getElementById("repSearch");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("repertoire");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td[0] = tr[i].getElementsByTagName("td")[0];
+    td[1] = tr[i].getElementsByTagName("td")[1];
+    if (td[0] || td[1]) {
+      txtValue[0] = td[0].textContent || td[0].innerText;
+      txtValue[1] = td[1].textContent || td[1].innerText;
+      if (txtValue[0].toUpperCase().indexOf(filter) > -1 || txtValue[1].toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
 
     </div>
 </main>
