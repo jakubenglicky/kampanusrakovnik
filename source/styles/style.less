@@ -390,6 +390,44 @@ main h2 {
   }
 }
 
+.my-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-md-4 {
+  position: relative;
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  @media (min-width: 768px) {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+}
+
+/* Person */
+.person-image {
+  position: relative;
+}
+
+.person-description {
+  background-color: rgba(243, 243, 244, 0.5);
+  bottom: 0;
+  color: white;
+  line-height: 1.2;
+  padding: 15px 25px;
+  position: absolute;
+  width: 100%;
+  .name {
+    font-weight: 600;
+    display: block;
+  }
+}
+
 /* Repertoire */
 #repSearch {
   background-image: url('../img/search-solid.svg');
