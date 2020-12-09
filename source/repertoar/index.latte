@@ -5,6 +5,10 @@ title: "Repertoár"
 
 {block content}
 <h1>REPERTOÁR</h1>
+<p>
+    Hrajeme rozmanitou škálu žánrů od popové hudby až k instrumentálním skladbám a to vše v moderním podání. Podívejte se také na naše videa na <a href="https://www.youtube.com/channel/UCOSQLzwqR1idmeTKp2BR1gA" target="_blank">YouTube</a>.
+</p>
+<hr>
 <input type="text" id="repSearch" onkeyup="searchRepertoire()" placeholder="Hledat">
 <table id="repertoire">
     <tbody>
@@ -41,7 +45,7 @@ function searchRepertoire() {
       } else {
         tr[i].style.display = "none";
       }
-    }       
+    }
   }
 }
 </script>
