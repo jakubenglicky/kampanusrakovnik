@@ -16,7 +16,7 @@
 
     <nav class="click-dropdown">
         <div class="header-text-brand">
-            <a href="/">Kampánus rakovník</a>
+            <a href="{$baseUrl}">Kampánus rakovník</a>
         </div>
 
         <button type="button" class="toggler-menu open-drop">
@@ -31,7 +31,7 @@
                     <li><a href="{$baseUrl}/repertoar/">Repertoár</a></li>
                     <li><a href="{$baseUrl}/o-kapele/">O kapele</a></li>
                     <li><a href="{$baseUrl}/ke-stazeni/">Pro pořadatele</a></li>
-                    <li><a href="{$baseUrl}/kontakt/">Kontakt</a></li>
+                    <li><a href="{$baseUrl}#kontakt">Kontakt</a></li>
                 </ul>
             </div>
             <div class="menu-footer-social">
@@ -76,6 +76,23 @@
 </main>
 
 <footer>
+    <div class="my-container">
+        <div class="my-row">
+            <div class="col-md-4">
+                <img src="{$baseUrl}/img/logo.png">
+            </div>
+            <div class="col-md-8" id="kontakt">
+                <h3>Kontakt</h3>
+                <ul>
+                    <li>E-mail:&nbsp;<a href="mailto:kapela@kampanusrakovnik.cz">kapela@kampanusrakovnik.cz</a></li>
+                    <li>Luboš Polan - <a href="tel:+420731101815">+420 731 101 815</a></li>
+                    <li>Šimon Polan - <a href="tel:+420739083573">+420 739 083 573</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <hr>
     <ul class="site-info">
         <li class="cms-info">&copy;&nbsp;2020 VYEN</li>
         <li class="theme-info"><a href="http://thefivethemes.com">Theme: Magnus by Hugo&nbsp;Baeta for The&nbsp;Five&nbsp;Themes</a></li>
