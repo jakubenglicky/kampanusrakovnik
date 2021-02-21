@@ -11,6 +11,7 @@ class SitemapGenerator extends \Symfony\Component\Console\Command\Command
 		'index.html',
 		'robots.txt',
 		'sitemap.xml',
+		'files',
 	];
 
 
