@@ -21,6 +21,7 @@ build:
 	make generate
 	make static
 	php src/console generate:sitemap public
+	cp public/404/index.html public/404.html
 
 local:
 	php vendor/bin/statie generate source --output=public --config=statie_local.yml

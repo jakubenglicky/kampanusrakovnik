@@ -12,6 +12,7 @@ class SitemapGenerator extends \Symfony\Component\Console\Command\Command
 		'robots.txt',
 		'sitemap.xml',
 		'files',
+		'404',
 	];
 
 
