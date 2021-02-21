@@ -3,4 +3,4 @@ imports:
   - { resource: 'data/songs.yml' }
 
 parameters:
-  baseUrl: https://jakubenglicky.github.io/kampanusrakovnik
+  baseUrl: https://kampanusrakovnik.cz
