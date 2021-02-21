@@ -1,4 +1,5 @@
 public/*
 !public/robots.txt
+!public/CNAME
 node_modules
 vendor
