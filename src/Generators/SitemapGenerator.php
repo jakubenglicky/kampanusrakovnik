@@ -13,6 +13,7 @@ class SitemapGenerator extends \Symfony\Component\Console\Command\Command
 		'sitemap.xml',
 		'files',
 		'404',
+		'CNAME',
 	];
 
 
