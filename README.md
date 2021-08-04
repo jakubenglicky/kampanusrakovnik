@@ -18,3 +18,5 @@ Static HTML files generated into `/public`
 ```
 
 Web available at http://localhost:8000
+
+Profit!
