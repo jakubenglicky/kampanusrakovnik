@@ -24,10 +24,6 @@
     "song": "Bílá velryba"
   },
   {
-    "performer": "Josef Řepa",
-    "song": "Boršičanka"
-  },
-  {
     "performer": "Eva Olmerová",
     "song": "Čekej tiše"
   },
@@ -104,10 +100,6 @@
     "song": "Hospody hospody a restaurace"
   },
   {
-    "performer": "Lucie Bílá",
-    "song": "Hvězdy jako hvězdy"
-  },
-  {
     "performer": "Cher",
     "song": "If I Could Turn Back Time"
   },
@@ -152,10 +144,6 @@
     "song": "Kdyby ty muziky nebyly"
   },
   {
-    "performer": "Lidová píseň",
-    "song": "Když jsem šel včera po rynku"
-  },
-  {
     "performer": "Leona Machálková",
     "song": "Konec dětských snů"
   },
@@ -173,7 +161,7 @@
   },
   {
     "performer": "Horkýže slíže",
-    "song": "Malá žužu"
+    "song": "Malá Žužu"
   },
   {
     "performer": "Shania Twain",
@@ -182,6 +170,10 @@
   {
     "performer": "Brutus",
     "song": "Město a rock and roll"
+  },
+  {
+    "performer": "Nohavica",
+    "song": "Mladičká básnířka"
   },
   {
     "performer": "Karel Zich",
@@ -264,8 +256,16 @@
     "song": "Slunečný hrob"
   },
   {
+    "performer": "-",
+    "song": "Směs foxtrotů"
+  },
+  {
     "performer": "Lidová píseň",
     "song": "Směs lidových písní"
+  },
+  {
+    "performer": "-",
+    "song": "Směs waltzů"
   },
   {
     "performer": "Alvaro Soler",
