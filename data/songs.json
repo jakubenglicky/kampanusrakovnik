@@ -1,366 +1,378 @@
 [
-  {
-    "performer": "Nena",
-    "song": "99 Luftballons"
-  },
-  {
-    "performer": "Jelen",
-    "song": "A co bylo dál"
-  },
-  {
-    "performer": "Katapult",
-    "song": "Až"
-  },
-  {
-    "performer": "Richard Muller",
-    "song": "Baroko"
-  },
-  {
-    "performer": "Věra Špinarová",
-    "song": "Bílá Jawa 250"
-  },
-  {
-    "performer": "Michal Hrůza",
-    "song": "Bílá velryba"
-  },
-  {
-    "performer": "Eva Olmerová",
-    "song": "Čekej tiše"
-  },
-  {
-    "performer": "Ready Kirken",
-    "song": "Černý brejle"
-  },
-  {
-    "performer": "Kryštof",
-    "song": "Cesta"
-  },
-  {
-    "performer": "Glenn Miller",
-    "song": "Chatanoga"
-  },
-  {
-    "performer": "Mig21",
-    "song": "Chci ti říct"
-  },
-  {
-    "performer": "Katapult",
-    "song": "Chodníkový blues"
-  },
-  {
-    "performer": "Bára Basiková",
-    "song": "Co na tom je tak zlého"
-  },
-  {
-    "performer": "Queen",
-    "song": "Crazy little things"
-  },
-  {
-    "performer": "Lidová píseň",
-    "song": "Čtyři páry"
-  },
-  {
-    "performer": "Xindl X, Mirka Miškechová",
-    "song": "Cudzinka v tvojej zemi"
-  },
-  {
-    "performer": "Olympic",
-    "song": "Dědečkův duch"
-  },
-  {
-    "performer": "Brutus",
-    "song": "Dlažební kostka"
-  },
-  {
-    "performer": "Sto zvířat",
-    "song": "Domácí kino"
-  },
-  {
-    "performer": "Lidová píseň",
-    "song": "Doudlebská chasa"
-  },
-  {
-    "performer": "Vladimír Fuka",
-    "song": "Dva šátečky"
-  },
-  {
-    "performer": "Pharrell Williams",
-    "song": "Happy"
-  },
-  {
-    "performer": "Kenny G",
-    "song": "Havana"
-  },
-  {
-    "performer": "Katapult",
-    "song": "Hlupák váhá"
-  },
-  {
-    "performer": "Brutus",
-    "song": "Hospody hospody a restaurace"
-  },
-  {
-    "performer": "Cher",
-    "song": "If I Could Turn Back Time"
-  },
-  {
-    "performer": "Hana Zagorová",
-    "song": "Já nemám strach"
-  },
-  {
-    "performer": "Katapult",
-    "song": "Já nesnídám sám"
-  },
-  {
-    "performer": "Jiří Schelinger",
-    "song": "Jahody mražený"
-  },
-  {
-    "performer": "Šakalí léta",
-    "song": "Jednou mi fotr povídá"
-  },
-  {
-    "performer": "Olga Lounová",
-    "song": "Jsem optimista"
-  },
-  {
-    "performer": "Mark Mueller",
-    "song": "Kačeří příběhy"
-  },
-  {
-    "performer": "Katapult",
-    "song": "Katapult"
-  },
-  {
-    "performer": "Sny z Nového Yorku",
-    "song": "Každý jednou velkou lásku potká"
-  },
-  {
-    "performer": "Lucie Vondráčková",
-    "song": "Kdy vzlétnu já"
-  },
-  {
-    "performer": "Jaromír Vejvoda",
-    "song": "Kdyby ty muziky nebyly"
-  },
-  {
-    "performer": "Leona Machálková",
-    "song": "Konec dětských snů"
-  },
-  {
-    "performer": "Petra Černocká",
-    "song": "Koukej se mnou si píseň broukej"
-  },
-  {
-    "performer": "Věra Špinarová",
-    "song": "Kouzlo bílejch čar"
-  },
-  {
-    "performer": "Michael Buble",
-    "song": "La Vie En Rose"
-  },
-  {
-    "performer": "Horkýže slíže",
-    "song": "Malá Žužu"
-  },
-  {
-    "performer": "Shania Twain",
-    "song": "Man! I Feel Like A Woman"
-  },
-  {
-    "performer": "Brutus",
-    "song": "Město a rock and roll"
-  },
-  {
-    "performer": "Nohavica",
-    "song": "Mladičká básnířka"
-  },
-  {
-    "performer": "Karel Zich",
-    "song": "Mosty"
-  },
-  {
-    "performer": "Chinaski",
-    "song": "Můj svět"
-  },
-  {
-    "performer": "Rock & Roll Band Marcela Woodmana",
-    "song": "Na šichtu"
-  },
-  {
-    "performer": "Ilona Czáková",
-    "song": "Nebe na Zemi"
-  },
-  {
-    "performer": "Black Milk",
-    "song": "Nechci tě trápit"
-  },
-  {
-    "performer": "Sto zvířat",
-    "song": "Nejkratší cesta"
-  },
-  {
-    "performer": "Mňága a Žďorp",
-    "song": "Nejlíp jim bylo"
-  },
-  {
-    "performer": "Lucie Bílá",
-    "song": "Novamba"
-  },
-  {
-    "performer": "Karel Vacek",
-    "song": "Panenka modrooká"
-  },
-  {
-    "performer": "Anna K.",
-    "song": "Píseň o slzách"
-  },
-  {
-    "performer": "Veselka Ladislava Kubeše",
-    "song": "Pod tou naší starou lípou"
-  },
-  {
-    "performer": "Xindl X",
-    "song": "Popelka"
-  },
-  {
-    "performer": "Ladislav Kubeš",
-    "song": "Přerovanka"
-  },
-  {
-    "performer": "Brutus",
-    "song": "První polibek"
-  },
-  {
-    "performer": "B.J.Thomas",
-    "song": "Raindrops Keep Fallin' On My Head"
-  },
-  {
-    "performer": "Lidová píseň",
-    "song": "Římovskej můstek"
-  },
-  {
-    "performer": "Šakalí léta",
-    "song": "Rocknroll pro Beethovena"
-  },
-  {
-    "performer": "Jaromír Vejvoda",
-    "song": "Škoda lásky"
-  },
-  {
-    "performer": "Helena Vondráčková",
-    "song": "Sladké mámení"
-  },
-  {
-    "performer": "Blue Effect",
-    "song": "Slunečný hrob"
-  },
-  {
-    "performer": "-",
-    "song": "Směs foxtrotů"
-  },
-  {
-    "performer": "Lidová píseň",
-    "song": "Směs lidových písní"
-  },
-  {
-    "performer": "-",
-    "song": "Směs waltzů"
-  },
-  {
-    "performer": "Alvaro Soler",
-    "song": "Sofia"
-  },
-  {
-    "performer": "Mandrage",
-    "song": "Šrouby a matice"
-  },
-  {
-    "performer": "Lidová píseň",
-    "song": "Stará lípa"
-  },
-  {
-    "performer": "Laura a její tygři",
-    "song": "Stíny krouží"
-  },
-  {
-    "performer": "Bryan Adams",
-    "song": "Summer of '69"
-  },
-  {
-    "performer": "Harlej",
-    "song": "Svařák"
-  },
-  {
-    "performer": "Moravanka",
-    "song": "Ta naša kapela"
-  },
-  {
-    "performer": "Amy Macdonald",
-    "song": "This Is The Life"
-  },
-  {
-    "performer": "Argema",
-    "song": "Tohle je ráj"
-  },
-  {
-    "performer": "Debbie",
-    "song": "Touch The Sun"
-  },
-  {
-    "performer": "Lidová píseň",
-    "song": "Ty falešná frajárko"
-  },
-  {
-    "performer": "Xindl X",
-    "song": "V blbým věku"
-  },
-  {
-    "performer": "Gombitová + Žbirka",
-    "song": "V slepých uličkách"
-  },
-  {
-    "performer": "Chinaski",
-    "song": "Vakuum"
-  },
-  {
-    "performer": "Jitka Zelenková",
-    "song": "Ve stínu na pláži"
-  },
-  {
-    "performer": "Chinaski",
-    "song": "Vinaři"
-  },
-  {
-    "performer": "Aneta Langerová",
-    "song": "Voda živá"
-  },
-  {
-    "performer": "Anna K",
-    "song": "Volá tě noc"
-  },
-  {
-    "performer": "Laura a její tygři",
-    "song": "Vyškrábu ti oči"
-  },
-  {
-    "performer": "Anna K",
-    "song": "Vždycky se budeme znát"
-  },
-  {
-    "performer": "Lidová píseň",
-    "song": "Za tú horú"
-  },
-  {
-    "performer": "Lucie Bílá",
-    "song": "Žádný party"
-  },
-  {
-    "performer": "Kryštof",
-    "song": "Zatančím"
-  },
-  {
-    "performer": "Arakain a Lucie Bílá",
-    "song": "Zimní královna"
-  }
+    {
+        "performer": "Nena",
+        "song": "99 Luftballons"
+    },
+    {
+        "performer": "Jelen",
+        "song": "A co bylo dál"
+    },
+    {
+        "performer": "Katapult",
+        "song": "Až"
+    },
+    {
+        "performer": "Richard Muller",
+        "song": "Baroko"
+    },
+    {
+        "performer": "Věra Špinarová",
+        "song": "Bílá Jawa 250"
+    },
+    {
+        "performer": "Michal Hrůza",
+        "song": "Bílá velryba"
+    },
+    {
+        "performer": "Eva Olmerová",
+        "song": "Čekej tiše"
+    },
+    {
+        "performer": "Ready Kirken",
+        "song": "Černý brejle"
+    },
+    {
+        "performer": "Kryštof",
+        "song": "Cesta"
+    },
+    {
+        "performer": "Glenn Miller",
+        "song": "Chatanoga"
+    },
+    {
+        "performer": "Mig21",
+        "song": "Chci ti říct"
+    },
+    {
+        "performer": "Katapult",
+        "song": "Chodníkový blues"
+    },
+    {
+        "performer": "Bára Basiková",
+        "song": "Co na tom je tak zlého"
+    },
+    {
+        "performer": "Queen",
+        "song": "Crazy little things"
+    },
+    {
+        "performer": "Lidová píseň",
+        "song": "Čtyři páry"
+    },
+    {
+        "performer": "Xindl X, Mirka Miškechová",
+        "song": "Cudzinka v tvojej zemi"
+    },
+    {
+        "performer": "Olympic",
+        "song": "Dědečkův duch"
+    },
+    {
+        "performer": "Brutus",
+        "song": "Dlažební kostka"
+    },
+    {
+        "performer": "Sto zvířat",
+        "song": "Domácí kino"
+    },
+    {
+        "performer": "Lidová píseň",
+        "song": "Doudlebská chasa"
+    },
+    {
+        "performer": "Vladimír Fuka",
+        "song": "Dva šátečky"
+    },
+    {
+        "performer": "Pharrell Williams",
+        "song": "Happy"
+    },
+    {
+        "performer": "Kenny G",
+        "song": "Havana"
+    },
+    {
+        "performer": "Katapult",
+        "song": "Hlupák váhá"
+    },
+    {
+        "performer": "Brutus",
+        "song": "Hospody hospody a restaurace"
+    },
+    {
+        "performer": "Cher",
+        "song": "If I Could Turn Back Time"
+    },
+    {
+        "performer": "Hana Zagorová",
+        "song": "Já nemám strach"
+    },
+    {
+        "performer": "Katapult",
+        "song": "Já nesnídám sám"
+    },
+    {
+        "performer": "Jiří Schelinger",
+        "song": "Jahody mražený"
+    },
+    {
+        "performer": "Šakalí léta",
+        "song": "Jednou mi fotr povídá"
+    },
+    {
+        "performer": "Olga Lounová",
+        "song": "Jsem optimista"
+    },
+    {
+        "performer": "Mark Mueller",
+        "song": "Kačeří příběhy"
+    },
+    {
+        "performer": "Katapult",
+        "song": "Katapult"
+    },
+    {
+        "performer": "Sny z Nového Yorku",
+        "song": "Každý jednou velkou lásku potká"
+    },
+    {
+        "performer": "Lucie Vondráčková",
+        "song": "Kdy vzlétnu já"
+    },
+    {
+        "performer": "Jaromír Vejvoda",
+        "song": "Kdyby ty muziky nebyly"
+    },
+    {
+        "performer": "Guns N' Roses",
+        "song": "Knockin' On Heaven's Door"
+    },
+    {
+        "performer": "Leona Machálková",
+        "song": "Konec dětských snů"
+    },
+    {
+        "performer": "Petra Černocká",
+        "song": "Koukej se mnou si píseň broukej"
+    },
+    {
+        "performer": "Věra Špinarová",
+        "song": "Kouzlo bílejch čar"
+    },
+    {
+        "performer": "Michael Buble",
+        "song": "La Vie En Rose"
+    },
+    {
+        "performer": "Horkýže slíže",
+        "song": "Malá Žužu"
+    },
+    {
+        "performer": "Shania Twain",
+        "song": "Man! I Feel Like A Woman"
+    },
+    {
+        "performer": "Brutus",
+        "song": "Město a rock and roll"
+    },
+    {
+        "performer": "Nohavica",
+        "song": "Mladičká básnířka"
+    },
+    {
+        "performer": "Karel Zich",
+        "song": "Mosty"
+    },
+    {
+        "performer": "Chinaski",
+        "song": "Můj svět"
+    },
+    {
+        "performer": "Rock & Roll Band Marcela Woodmana",
+        "song": "Na šichtu"
+    },
+    {
+        "performer": "Buty",
+        "song": "Nad stádem koní"
+    },
+    {
+        "performer": "Ilona Czáková",
+        "song": "Nebe na Zemi"
+    },
+    {
+        "performer": "Black Milk",
+        "song": "Nechci tě trápit"
+    },
+    {
+        "performer": "Sto zvířat",
+        "song": "Nejkratší cesta"
+    },
+    {
+        "performer": "Mňága a Žďorp",
+        "song": "Nejlíp jim bylo"
+    },
+    {
+        "performer": "Lucie Bílá",
+        "song": "Novamba"
+    },
+    {
+        "performer": "Karel Vacek",
+        "song": "Panenka modrooká"
+    },
+    {
+        "performer": "Anna K.",
+        "song": "Píseň o slzách"
+    },
+    {
+        "performer": "Veselka Ladislava Kubeše",
+        "song": "Pod tou naší starou lípou"
+    },
+    {
+        "performer": "Xindl X",
+        "song": "Popelka"
+    },
+    {
+        "performer": "Ladislav Kubeš",
+        "song": "Přerovanka"
+    },
+    {
+        "performer": "Brutus",
+        "song": "První polibek"
+    },
+    {
+        "performer": "B.J.Thomas",
+        "song": "Raindrops Keep Fallin' On My Head"
+    },
+    {
+        "performer": "Lidová píseň",
+        "song": "Římovskej můstek"
+    },
+    {
+        "performer": "Šakalí léta",
+        "song": "Rocknroll pro Beethovena"
+    },
+    {
+        "performer": "Žlutý pes",
+        "song": "Sametová"
+    },
+    {
+        "performer": "Jaromír Vejvoda",
+        "song": "Škoda lásky"
+    },
+    {
+        "performer": "Helena Vondráčková",
+        "song": "Sladké mámení"
+    },
+    {
+        "performer": "Blue Effect",
+        "song": "Slunečný hrob"
+    },
+    {
+        "performer": "-",
+        "song": "Směs foxtrotů"
+    },
+    {
+        "performer": "Lidová píseň",
+        "song": "Směs lidových písní"
+    },
+    {
+        "performer": "-",
+        "song": "Směs waltzů"
+    },
+    {
+        "performer": "Alvaro Soler",
+        "song": "Sofia"
+    },
+    {
+        "performer": "Mandrage",
+        "song": "Šrouby a matice"
+    },
+    {
+        "performer": "Lidová píseň",
+        "song": "Stará lípa"
+    },
+    {
+        "performer": "Laura a její tygři",
+        "song": "Stíny krouží"
+    },
+    {
+        "performer": "Bryan Adams",
+        "song": "Summer of '69"
+    },
+    {
+        "performer": "Harlej",
+        "song": "Svařák"
+    },
+    {
+        "performer": "Moravanka",
+        "song": "Ta naša kapela"
+    },
+    {
+        "performer": "Amy Macdonald",
+        "song": "This Is The Life"
+    },
+    {
+        "performer": "Argema",
+        "song": "Tohle je ráj"
+    },
+    {
+        "performer": "Debbie",
+        "song": "Touch The Sun"
+    },
+    {
+        "performer": "Lidová píseň",
+        "song": "Ty falešná frajárko"
+    },
+    {
+        "performer": "Xindl X",
+        "song": "V blbým věku"
+    },
+    {
+        "performer": "Gombitová + Žbirka",
+        "song": "V slepých uličkách"
+    },
+    {
+        "performer": "Chinaski",
+        "song": "Vakuum"
+    },
+    {
+        "performer": "Jitka Zelenková",
+        "song": "Ve stínu na pláži"
+    },
+    {
+        "performer": "Chinaski",
+        "song": "Vinaři"
+    },
+    {
+        "performer": "Aneta Langerová",
+        "song": "Voda živá"
+    },
+    {
+        "performer": "Anna K",
+        "song": "Volá tě noc"
+    },
+    {
+        "performer": "Laura a její tygři",
+        "song": "Vyškrábu ti oči"
+    },
+    {
+        "performer": "Anna K",
+        "song": "Vždycky se budeme znát"
+    },
+    {
+        "performer": "Lidová píseň",
+        "song": "Za tú horú"
+    },
+    {
+        "performer": "Lucie Bílá",
+        "song": "Žádný party"
+    },
+    {
+        "performer": "Kryštof",
+        "song": "Zatančím"
+    },
+    {
+        "performer": "Arakain a Lucie Bílá",
+        "song": "Zimní královna"
+    }
 ]
