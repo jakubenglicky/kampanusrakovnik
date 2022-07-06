@@ -14,6 +14,15 @@ services:
     - ./:/src
     working_dir: /src
 
+  web: 
+    image: php:7.3-cli
+    volumes:
+    - ./:/src
+    working_dir: /src
+    command: make dev
+    ports:
+      - 80:8000
+
   composer:
     image: composer:latest
     volumes:

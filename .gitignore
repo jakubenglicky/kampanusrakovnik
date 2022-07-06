@@ -1,5 +1,7 @@
 public/*
 !public/robots.txt
 !public/CNAME
+!public/img
 node_modules
 vendor
+.vscode
