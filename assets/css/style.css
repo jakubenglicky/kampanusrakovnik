@@ -445,17 +445,21 @@ main h2 {
   position: relative;
 }
 .person-description {
-  background-color: rgba(243, 243, 244, 0.5);
+  background-color: rgba(243, 243, 244, 0.7);
   bottom: 0;
-  color: white;
+  color: grey;
   line-height: 1.2;
   padding: 15px 25px;
   position: absolute;
   width: 100%;
+  font-size: 18px;
 }
 .person-description .name {
   font-weight: 600;
   display: block;
+}
+.person-description .instrument {
+  font-size: 0.9em;
 }
 /* Repertoire */
 #repSearch {
