@@ -445,9 +445,9 @@ main h2 {
   position: relative;
 }
 .person-description {
-  background-color: rgba(243, 243, 244, 0.7);
+  background-color: rgba(0, 0, 0, 0.3);
   bottom: 0;
-  color: grey;
+  color: white;
   line-height: 1.2;
   padding: 15px 25px;
   position: absolute;
