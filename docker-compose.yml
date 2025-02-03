@@ -1,8 +1,6 @@
-version: '3.3'
-
 services:
   npm:
-    image: library/node:latest
+    image: node:16
     volumes:
     - ./:/src
     working_dir: /src
@@ -24,7 +22,7 @@ services:
       - 80:8000
 
   composer:
-    image: composer:latest
+    image: composer:1.8.6
     volumes:
     - ./:/src
     working_dir: /src
