@@ -24,28 +24,8 @@
         "song": "Bílá velryba"
     },
     {
-        "performer": "Eva Olmerová",
-        "song": "Čekej tiše"
-    },
-    {
-        "performer": "Ready Kirken",
-        "song": "Černý brejle"
-    },
-    {
         "performer": "Kryštof",
         "song": "Cesta"
-    },
-    {
-        "performer": "Glenn Miller",
-        "song": "Chatanoga"
-    },
-    {
-        "performer": "Mig21",
-        "song": "Chci ti říct"
-    },
-    {
-        "performer": "Katapult",
-        "song": "Chodníkový blues"
     },
     {
         "performer": "Bára Basiková",
@@ -56,12 +36,24 @@
         "song": "Crazy little things"
     },
     {
-        "performer": "Lidová píseň",
-        "song": "Čtyři páry"
-    },
-    {
         "performer": "Xindl X, Mirka Miškechová",
         "song": "Cudzinka v tvojej zemi"
+    },
+    {
+        "performer": "Eva Olmerová",
+        "song": "Čekej tiše"
+    },
+    {
+        "performer": "Kašpárek v rohlíku",
+        "song": "Černá"
+    },
+    {
+        "performer": "Ready Kirken",
+        "song": "Černý brejle"
+    },
+    {
+        "performer": "Lidová píseň",
+        "song": "Čtyři páry"
     },
     {
         "performer": "Olympic",
@@ -96,8 +88,24 @@
         "song": "Hlupák váhá"
     },
     {
+        "performer": "O5 a Radeček",
+        "song": "Hory"
+    },
+    {
         "performer": "Brutus",
         "song": "Hospody hospody a restaurace"
+    },
+    {
+        "performer": "Glenn Miller",
+        "song": "Chatanoga"
+    },
+    {
+        "performer": "Mig21",
+        "song": "Chci ti říct"
+    },
+    {
+        "performer": "Katapult",
+        "song": "Chodníkový blues"
     },
     {
         "performer": "Cher",
@@ -232,32 +240,28 @@
         "song": "Popelka"
     },
     {
-        "performer": "Ladislav Kubeš",
-        "song": "Přerovanka"
-    },
-    {
         "performer": "Brutus",
         "song": "První polibek"
+    },
+    {
+        "performer": "Ladislav Kubeš",
+        "song": "Přerovanka"
     },
     {
         "performer": "B.J.Thomas",
         "song": "Raindrops Keep Fallin' On My Head"
     },
     {
-        "performer": "Lidová píseň",
-        "song": "Římovskej můstek"
-    },
-    {
         "performer": "Šakalí léta",
         "song": "Rocknroll pro Beethovena"
     },
     {
-        "performer": "Žlutý pes",
-        "song": "Sametová"
+        "performer": "Lidová píseň",
+        "song": "Římovskej můstek"
     },
     {
-        "performer": "Jaromír Vejvoda",
-        "song": "Škoda lásky"
+        "performer": "Žlutý pes",
+        "song": "Sametová"
     },
     {
         "performer": "Helena Vondráčková",
@@ -284,10 +288,6 @@
         "song": "Sofia"
     },
     {
-        "performer": "Mandrage",
-        "song": "Šrouby a matice"
-    },
-    {
         "performer": "Lidová píseň",
         "song": "Stará lípa"
     },
@@ -302,6 +302,14 @@
     {
         "performer": "Harlej",
         "song": "Svařák"
+    },
+    {
+        "performer": "Jaromír Vejvoda",
+        "song": "Škoda lásky"
+    },
+    {
+        "performer": "Mandrage",
+        "song": "Šrouby a matice"
     },
     {
         "performer": "Moravanka",
@@ -364,15 +372,15 @@
         "song": "Za tú horú"
     },
     {
-        "performer": "Lucie Bílá",
-        "song": "Žádný party"
-    },
-    {
         "performer": "Kryštof",
         "song": "Zatančím"
     },
     {
         "performer": "Arakain a Lucie Bílá",
         "song": "Zimní královna"
+    },
+    {
+        "performer": "Lucie Bílá",
+        "song": "Žádný party"
     }
 ]
